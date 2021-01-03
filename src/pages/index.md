@@ -6,9 +6,8 @@ sections:
     type: section_hero
     title: 'Hi, I''m Ben Graves'
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you
-      prefer.dddalksdjflkasdjfl;asdjfl
+      I'm an IT Professional with 15+ years working in a varity of industries
+      and environments. I love IT infrastructure and cloud services primarily.
   - section_id: about
     type: section_content
     title: About
