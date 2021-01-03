@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Ben'
+    title: Welcome to Infrastruct
     content: Welcome to Infrastruct
   - section_id: about
     type: section_content
