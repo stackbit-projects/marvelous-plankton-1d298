@@ -5,9 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Ben Graves'
-    content: >-
-      I'm an IT Professional with 15+ years working in a varity of industries
-      and environments. I love IT infrastructure and cloud services primarily.
+    content: Welcome to Infrastruct
   - section_id: about
     type: section_content
     title: About
