@@ -11,7 +11,8 @@ sections:
     title: About
     content: >-
       I'm an IT Professional with 15+ years working in a varity of industries
-      and environments. I love IT infrastructure and cloud services primarily.
+      and environments. I'm an expert in IT infrastructure, DataCenter & Cloud
+      services.
     actions:
       - label: Contact Me
         url: /contact
