@@ -5,7 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: Welcome to Infrastruct
-    content: Welcome to Infrastruct
+    content: A home for IT Infrastructure tips and tutorials
   - section_id: about
     type: section_content
     title: About
