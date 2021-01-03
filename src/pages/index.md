@@ -10,9 +10,8 @@ sections:
     type: section_content
     title: About
     content: >-
-      I'm an IT Professional with 15+ years working in a varity of industries
-      and environments. I'm an expert in IT infrastructure, DataCenter & Cloud
-      services.
+      Infrastruct was designed to collect a variety of IT infrastructure
+      tutorals/walkthroughs, to help the reader find tips on common items.
     actions:
       - label: Contact Me
         url: /contact
